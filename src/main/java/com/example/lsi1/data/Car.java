@@ -3,6 +3,7 @@ package com.example.lsi1.data;
 public class Car {
 
     String plateNumber;
+    int unsued = 1;
     String brand;
     int price;
 
